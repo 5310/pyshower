@@ -3,7 +3,7 @@ PyShower
 
 A very minimal randomized image viewer written using Pyglet. 
 
-Useful for practicing speed drawing from randomized images from reference folder. or heck just viewing an offline still porn collection (how quaint)!
+Useful for practicing speed drawing to randomized images from a reference folder. Or heck, just viewing an offline still porn collection (how quaint)!
 
 - Run after placing inside a folder with images.
 - Press `left` or `right` to change images manually, upon which auto-play is stopped.
